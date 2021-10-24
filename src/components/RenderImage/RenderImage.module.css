@@ -1,0 +1,22 @@
+img {
+  width: 200px;
+  margin: 18px;
+  border-radius: 8px;
+}
+
+h2 {
+  color: #61DAFBFF;
+  margin-top: 34px;
+  border-color: red;
+}
+
+button {
+  border-color: #282C34FF;
+  color: #282C34FF;
+}
+
+hr {
+  margin-top: 20px;
+  margin-left: 490px;
+  margin-right: 490px;
+}
